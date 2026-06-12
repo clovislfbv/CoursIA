@@ -1,18 +1,18 @@
 # CoursIA Notebook Catalog
 
-Generated: 2026-06-11 05:11
-Total notebooks: 522
+Generated: 2026-06-12 08:11
+Total notebooks: 523
 
 ## Status Summary
 
-- **READY**: 379
+- **READY**: 380
 - **DEMO**: 141
 - **RESEARCH**: 0
 - **BROKEN**: 2
 
 ## Maturity Summary
 
-- **PRODUCTION**: 433
+- **PRODUCTION**: 434
 - **BETA**: 41
 - **TEMPLATE**: 4
 - **ALPHA**: 40
@@ -466,7 +466,7 @@ Total notebooks: 522
 | 13 | GameTheory 2b - Formalisation Lean : Definitions d | Lean 4 (WSL) | READY | PRODUCTION | 45min | po-2024 |
 | 14 | GameTheory-3-Topology2x2 | Python (GameTheory WSL + OpenS | READY | PRODUCTION | 45min | po-2024 |
 | 15 | GameTheory-4-NashEquilibrium | Python (GameTheory WSL + OpenS | READY | PRODUCTION | 30min | po-2024 |
-| 16 | GameTheory 4b - Theoreme d'Existence de Nash (Lean | Lean 4 (WSL) | READY | PRODUCTION | 45min | po-2024 |
+| 16 | GameTheory 4b - Theoreme d'Existence de Nash (Lean | Lean 4 (lean4_jupyter) | READY | PRODUCTION | 45min | po-2024 |
 | 17 | GameTheory 4c - Theoreme d'Existence de Nash (Pyth | Python 3 | READY | PRODUCTION | 45min | po-2024 |
 | 18 | GameTheory-5-ZeroSum-Minimax | Python (GameTheory WSL + OpenS | READY | PRODUCTION | 30min | po-2024 |
 | 19 | GameTheory-6-EvolutionTrust | Python (GameTheory WSL + OpenS | READY | PRODUCTION | 45min | po-2024 |
@@ -570,23 +570,24 @@ Total notebooks: 522
 | 1 | IIT - Sujets Avances : Partitionnement, Repertoire | Python 3 (PyPhi/IIT) | READY | PRODUCTION | 45min | po-2025 |
 | 2 | IIT - Introduction à PyPhi et Integrated Informati | pyphi | READY | PRODUCTION | 30min | po-2025 |
 
-### RL (13 notebooks) — READY:13 | BETA:1, PRODUCTION:12
+### RL (14 notebooks) — READY:14 | BETA:1, PRODUCTION:13
 
 | # | Notebook | Kernel | Status | Maturity | Duration | Owner |
 |---|----------|--------|--------|----------|----------|-------|
 | 1 | RL-10 : Reward Shaping et Curriculum Learning | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 2 | Tutoriel Stable Baselines3 - Premiers pas | Python 3 | READY | PRODUCTION | 45min | po-2025 |
-| 3 | Notebook 2 – Wrappers Gym, Sauvegarde/Chargement,  | Python 3 | READY | BETA | 30min | po-2025 |
-| 4 | Notebook 3 – Hindsight Experience Replay (HER) et  | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 5 | RL-4 : Bandits Manchots et le Compromis Exploratio | Python 3 | READY | PRODUCTION | 45min | po-2025 |
-| 6 | RL-5 : MDP, Programmation Dynamique et Q-Learning  | Python 3 | READY | PRODUCTION | 45min | po-2025 |
-| 7 | RL-6 : Deep Q-Network (DQN) et Policy Gradient | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 8 | RL-6b - Actor-Critic : unir valeur et politique | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 9 | PPO (Proximal Policy Optimization) depuis zero | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 10 | SAC (Soft Actor-Critic) depuis zero | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 11 | RL-7 : Introduction a l'Apprentissage Multi-Agent | Python 3 | READY | PRODUCTION | 30min | po-2025 |
-| 12 | RL-8 : Model-Based RL — Dyna-Q et planification | Python 3 (ipykernel) | READY | PRODUCTION | 30min | po-2025 |
-| 13 | RL-9 : RL offline — Behavior Cloning et erreur d'e | Python 3 (ipykernel) | READY | PRODUCTION | 30min | po-2025 |
+| 2 | RL-11 : POMDP - Partial Observability et Belief Tr | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 3 | Tutoriel Stable Baselines3 - Premiers pas | Python 3 | READY | PRODUCTION | 45min | po-2025 |
+| 4 | Notebook 2 – Wrappers Gym, Sauvegarde/Chargement,  | Python 3 | READY | BETA | 30min | po-2025 |
+| 5 | Notebook 3 – Hindsight Experience Replay (HER) et  | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 6 | RL-4 : Bandits Manchots et le Compromis Exploratio | Python 3 | READY | PRODUCTION | 45min | po-2025 |
+| 7 | RL-5 : MDP, Programmation Dynamique et Q-Learning  | Python 3 | READY | PRODUCTION | 45min | po-2025 |
+| 8 | RL-6 : Deep Q-Network (DQN) et Policy Gradient | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 9 | RL-6b - Actor-Critic : unir valeur et politique | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 10 | PPO (Proximal Policy Optimization) depuis zero | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 11 | SAC (Soft Actor-Critic) depuis zero | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 12 | RL-7 : Introduction a l'Apprentissage Multi-Agent | Python 3 | READY | PRODUCTION | 30min | po-2025 |
+| 13 | RL-8 : Model-Based RL — Dyna-Q et planification | Python 3 (ipykernel) | READY | PRODUCTION | 30min | po-2025 |
+| 14 | RL-9 : RL offline — Behavior Cloning et erreur d'e | Python 3 (ipykernel) | READY | PRODUCTION | 30min | po-2025 |
 
 
 ## Requirements
@@ -595,4 +596,4 @@ Total notebooks: 522
 - **GPU**: 80 notebooks
 - **Cloud**: 101 notebooks
 - **WSL**: 30 notebooks
-- **Local**: 253 notebooks
+- **Local**: 254 notebooks
